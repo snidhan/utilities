@@ -1,0 +1,31 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q standard
+
+#WALL TIME
+#PBS -l walltime=24:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=11:ncpus=48:mpiprocs=48
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o spwake.out
+
+#JOB NAME
+#PBS -N fr_quasi3d
+
+#RUN
+cd /p/work1/snidhan/spod_re5e4/frinf_run_quasi3D/run/
+#sh script_res_v2_mod.sh
+
+#sh update_log.sh
+#sh update_res.sh
+
+mpiexec_mpt -np 512 ./Eddy.x > log_r0002
+

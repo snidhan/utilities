@@ -1,0 +1,31 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q debug
+
+#WALL TIME
+#PBS -l walltime=00:30:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=11:ncpus=48:mpiprocs=48
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o spwake.out
+
+#JOB NAME
+#PBS -N frinf_run
+
+#RUN
+cd /p/work1/snidhan/spod_re5e4/frinf_run/run/
+
+#sh script_res_v2_mod.sh
+#sh update_res.sh
+#sh update_log.sh
+
+mpiexec_mpt -np 512 ./Eddy.x > log_r0015
+

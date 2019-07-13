@@ -1,0 +1,37 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+##PBS -q standard
+#PBS -q debug
+
+#WALL TIME
+#PBS -l walltime=00:20:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=2:ncpus=44:mpiprocs=44
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o spwake.out
+
+#JOB NAME
+#PBS -N hotdog
+
+#RUN
+## CHECK for previous restart files
+
+cd /p/work/snidhan/spheroid_ar6_0aoa/trip_tests/trip_x_0.5/trip_x_0.5_hotdog_grid_eighth/run/
+
+#qsub RUN2
+
+#sh update_res.sh
+#sh update_log.sh
+
+#set LD_LIBRARY_PATH=${HOME}/packages/EDDY_LIB/ann_1.1.2:${HOME}/packages/EDDY_LIB/hdf5-1.8.15-patch1:${HOME}/packages/EDDY_LIB/lapack-3.6.1:${HOME}/packages/EDDY_LIB/BLAS-3.6.0:${HOME}/packages/EDDY_LIB:${HOME}/packages/fftw/2.1.5.3/lib:${HOME}/plug:$LD_LIBRARY_PATH
+
+aprun -n 64  ./Eddy_val.x  > log_r0005
+

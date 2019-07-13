@@ -1,0 +1,112 @@
+#!/bin/bash
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q transfer
+
+#WALL TIME
+#PBS -l walltime=24:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=1:ncpus=1
+
+#STANDARD ERROR
+#PBS -e archiving.err
+
+#STANDARD OUT
+#PBS -o archiving.out
+
+#JOB NAME
+#PBS -N arch.res.F1
+
+#RUN
+
+path=/p/work1/jortizta/
+dir=SP_R1E4_F1_4
+
+#archive mkdir $dir
+#archive mkdir $dir/run/
+#archive mkdir $dir/run/restartfiles
+#archive mkdir $dir/run/datafiles
+#
+#cd $path$dir
+#tar -czvf src.tar.gz ./  --exclude='run' > ~/log_archiving
+#archive put -C $dir src.tar.gz > ~/log_archiving
+#
+#cd $path$dir/run
+#tar -czvf run.tar.gz ./ --exclude='*.res' --exclude='restartfiles' --exclude='datafiles' > ~/log_archiving 
+#archive put -C $dir/run run.tar.gz  > ~/log_archiving
+
+
+# SAVING RESTARTFILES
+
+cd $path$dir/run/restartfiles
+
+for file in *_MEAN.res
+do
+    if [ -f "${file}" ]; then
+    echo "WARNING: back up manually the *MEAN.res files" >./log_archiving ;
+    fi
+done
+
+
+var='uvwp'
+#var='p'
+
+for j in `seq 0 3`;
+do
+
+    for i in ${var:j:1}_*.res 
+    do 
+    
+    str="${i:2:8}"  
+    number=$((10#$str+0)) 
+    
+    archive put -C $dir/run/restartfiles/ $i >./log_archiving
+    echo $i 'archived'
+
+    done
+
+done
+
+#for i in p_*.res 
+#do 
+#
+#str="${i:2:8}"  
+#number=$((10#$str+0)) 
+#
+#archive put -C $dir/run/restartfiles/ $i >./log_archiving
+#
+#echo $i 'archived'
+#
+#done
+
+
+
+
+dens=(dens_*.res)
+
+if [ -f ${dens[0]} ]; then
+
+    echo 'archiving density files'
+
+    for i in dens_*.res 
+    do 
+ 
+    str="${i:5:8}"  
+    number=$((10#$str+0)) 
+    
+    archive put -C $dir/run/restartfiles/ $i >./log_archiving
+
+    echo $i 'archived'
+    
+    done
+
+fi
+
+
+echo "data archiving done"
+
+
+

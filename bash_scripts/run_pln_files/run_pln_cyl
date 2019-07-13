@@ -1,0 +1,12 @@
+./pln_cyl.x << EOF
+'./'          # Data Directory with /
+'./'                 # Output Directory with /
+.false.              # Tecplot T/F
+.true.               # Paraview T/F
+$1                   # BaseName
+77000               # Start Step 
+1000000               # End Step       
+500               # Stride 
+.true.               # T=Single F=Double
+.true.               # oldnew
+EOF

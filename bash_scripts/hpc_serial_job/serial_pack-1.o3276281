@@ -1,0 +1,476 @@
+Start Prologue v2.5.3 Fri Mar 15 20:11:11 CDT 2019 
+r10i5n2: MemFree:        121130156 kB
+r10i5n5: MemFree:        123021028 kB
+End Prologue v2.5.3 Fri Mar 15 20:11:12 CDT 2019 
+mesg: ttyname failed: Inappropriate ioctl for device
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n2.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+r10i5n5.ib0.ice-x.erdc.hpc.mil
+Execute loop ended 2019-03-15 20:11:13-05:00
+r10i5n2
+ 20:11:17 up 107 days,  5:57,  0 users,  load average: 2.73, 9.81, 22.92
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+USER       PID  PPID   LWP %CPU PSR     ELAPSED    VSZ   RSS STAT CMD
+snidhan  10313 30401 10313  0.3   0       00:08  23376  2056 Ss   -bash
+snidhan  11302 10313 11302  0.0  18       00:05  12564   608 S    pbs_demux
+snidhan  11409 10313 11409  0.4  18       00:05  18924  1656 S    /bin/bash /var/spool/PBS/mom_priv/jobs/3276281.topaz10.SC
+snidhan  11418 11409 11418  0.4  20       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout1.o3276281 ;                date --rfc-3339=seconds >> job-stdout1.o3276281
+snidhan  11420 11409 11420  0.4  10       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout2.o3276281 ;                date --rfc-3339=seconds >> job-stdout2.o3276281
+snidhan  11422 11409 11422  0.4  12       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout3.o3276281 ;                date --rfc-3339=seconds >> job-stdout3.o3276281
+snidhan  11424 11409 11424  0.4   0       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout4.o3276281 ;                date --rfc-3339=seconds >> job-stdout4.o3276281
+snidhan  11426 11409 11426  0.4  19       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout5.o3276281 ;                date --rfc-3339=seconds >> job-stdout5.o3276281
+snidhan  11428 11409 11428  0.4  63       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout6.o3276281 ;                date --rfc-3339=seconds >> job-stdout6.o3276281
+snidhan  11430 11409 11430  0.4  19       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout7.o3276281 ;                date --rfc-3339=seconds >> job-stdout7.o3276281
+snidhan  11432 11409 11432  0.4   0       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout8.o3276281 ;                date --rfc-3339=seconds >> job-stdout8.o3276281
+snidhan  11434 11409 11434  0.4  18       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout9.o3276281 ;                date --rfc-3339=seconds >> job-stdout9.o3276281
+snidhan  11436 11409 11436  0.4  12       00:05  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout10.o3276281 ;                date --rfc-3339=seconds >> job-stdout10.o3276281
+snidhan  11438 11409 11438  0.4  21       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout11.o3276281 ;                date --rfc-3339=seconds >> job-stdout11.o3276281
+snidhan  11440 11409 11440  0.4  21       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout12.o3276281 ;                date --rfc-3339=seconds >> job-stdout12.o3276281
+snidhan  11442 11409 11442  0.4   9       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout13.o3276281 ;                date --rfc-3339=seconds >> job-stdout13.o3276281
+snidhan  11444 11409 11444  0.4   0       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout14.o3276281 ;                date --rfc-3339=seconds >> job-stdout14.o3276281
+root     11446  7236 11446  0.0  20       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+root     11447  7236 11447  0.0  10       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11448 11409 11448  0.4  32       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout15.o3276281 ;                date --rfc-3339=seconds >> job-stdout15.o3276281
+snidhan  11450 11409 11450  0.2   2       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout16.o3276281 ;                date --rfc-3339=seconds >> job-stdout16.o3276281
+snidhan  11452 11409 11452  0.4   6       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout17.o3276281 ;                date --rfc-3339=seconds >> job-stdout17.o3276281
+root     11454  7236 11454  0.0  12       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11455 11409 11455  0.4   0       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout18.o3276281 ;                date --rfc-3339=seconds >> job-stdout18.o3276281
+root     11457  7236 11457  0.0   0       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11459 11409 11459  0.4   1       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout19.o3276281 ;                date --rfc-3339=seconds >> job-stdout19.o3276281
+snidhan  11462 11409 11462  0.4  18       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout20.o3276281 ;                date --rfc-3339=seconds >> job-stdout20.o3276281
+root     11464  7236 11464  0.0  19       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11465 11409 11465  0.4  11       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout21.o3276281 ;                date --rfc-3339=seconds >> job-stdout21.o3276281
+root     11467  7236 11467  0.0  28       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11468 11409 11468  0.4  27       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout22.o3276281 ;                date --rfc-3339=seconds >> job-stdout22.o3276281
+root     11470  7236 11470  0.0  19       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11471 11409 11471  0.4  18       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout23.o3276281 ;                date --rfc-3339=seconds >> job-stdout23.o3276281
+root     11473  7236 11473  0.0   0       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11475 11409 11475  0.4  11       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout24.o3276281 ;                date --rfc-3339=seconds >> job-stdout24.o3276281
+snidhan  11478 11409 11478  0.4  29       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout25.o3276281 ;                date --rfc-3339=seconds >> job-stdout25.o3276281
+root     11480  7236 11480  0.0  18       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11481 11409 11481  0.4  28       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout26.o3276281 ;                date --rfc-3339=seconds >> job-stdout26.o3276281
+root     11483  7236 11483  0.0  12       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11484 11409 11484  0.4  29       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout27.o3276281 ;                date --rfc-3339=seconds >> job-stdout27.o3276281
+root     11486  7236 11486  0.0  21       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11487 11409 11487  0.4   2       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout28.o3276281 ;                date --rfc-3339=seconds >> job-stdout28.o3276281
+root     11489  7236 11489  0.0  21       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11490 11409 11490  0.6  29       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout29.o3276281 ;                date --rfc-3339=seconds >> job-stdout29.o3276281
+root     11492  7236 11492  0.0   9       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11493 11409 11493  0.4  11       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout30.o3276281 ;                date --rfc-3339=seconds >> job-stdout30.o3276281
+root     11496  7236 11496  0.0   0       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11497 11409 11497  0.6  12       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout31.o3276281 ;                date --rfc-3339=seconds >> job-stdout31.o3276281
+snidhan  11499 11409 11499  0.4  30       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout32.o3276281 ;                date --rfc-3339=seconds >> job-stdout32.o3276281
+root     11501  7236 11501  0.0  32       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11502 11409 11502  0.4  21       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout33.o3276281 ;                date --rfc-3339=seconds >> job-stdout33.o3276281
+root     11504  7236 11504  0.0   2       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11505 11409 11505  0.4  11       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout34.o3276281 ;                date --rfc-3339=seconds >> job-stdout34.o3276281
+snidhan  11508 11409 11508  0.4  20       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout35.o3276281 ;                date --rfc-3339=seconds >> job-stdout35.o3276281
+root     11510  7236 11510  0.0  56       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11511 11409 11511  0.4  11       00:04  45100  2900 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout36.o3276281 ;                date --rfc-3339=seconds >> job-stdout36.o3276281
+root     11514  7236 11514  0.0   0       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+root     11515  7236 11515  0.0   0       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11516 11409 11516  0.4   0       00:04  47148  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout37.o3276281 ;                date --rfc-3339=seconds >> job-stdout37.o3276281
+snidhan  11518 11446 11518  0.0  21       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11519 11409 11519  0.6   0       00:04  47148  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout38.o3276281 ;                date --rfc-3339=seconds >> job-stdout38.o3276281
+snidhan  11521 11518 11521  0.4   9       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout1.o3276281 ;                date --rfc-3339=seconds >> job-stdout1.o3276281
+root     11522  7236 11522  0.0  18       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11523 11447 11523  0.0   9       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11524 11523 11524  0.4  18       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout2.o3276281 ;                date --rfc-3339=seconds >> job-stdout2.o3276281
+snidhan  11525 11409 11525  0.4  37       00:04  47148  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout39.o3276281 ;                date --rfc-3339=seconds >> job-stdout39.o3276281
+root     11528  7236 11528  0.0  27       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11549 11409 11549  0.4   1       00:04  47148  2964 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout40.o3276281 ;                date --rfc-3339=seconds >> job-stdout40.o3276281
+root     11554  7236 11554  0.0  11       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11570 11454 11570  0.0  11       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11573 11570 11573  0.4  12       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout3.o3276281 ;                date --rfc-3339=seconds >> job-stdout3.o3276281
+snidhan  11576 11409 11576  0.4   0       00:04  47148  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout41.o3276281 ;                date --rfc-3339=seconds >> job-stdout41.o3276281
+root     11586  7236 11586  0.0  18       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11607 11409 11607  0.4  19       00:04  47148  2964 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout42.o3276281 ;                date --rfc-3339=seconds >> job-stdout42.o3276281
+root     11617  7236 11617  0.0  11       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+root     11634  7236 11634  0.0  29       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11635 11409 11635  0.4   1       00:04  47148  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout43.o3276281 ;                date --rfc-3339=seconds >> job-stdout43.o3276281
+snidhan  11666 11409 11666  0.4   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout44.o3276281 ;                date --rfc-3339=seconds >> job-stdout44.o3276281
+snidhan  11672 11457 11672  0.0   1       00:04  89640  1916 S    sshd: snidhan@notty                                
+root     11673  7236 11673  0.0  28       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11674 11672 11674  0.4  30       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout4.o3276281 ;                date --rfc-3339=seconds >> job-stdout4.o3276281
+root     11675  7236 11675  0.0  29       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11683 11409 11683  0.4   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout45.o3276281 ;                date --rfc-3339=seconds >> job-stdout45.o3276281
+root     11690  7236 11690  0.0   2       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11704 11409 11704  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout46.o3276281 ;                date --rfc-3339=seconds >> job-stdout46.o3276281
+root     11712  7236 11712  0.0  29       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11717 11409 11717  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout47.o3276281 ;                date --rfc-3339=seconds >> job-stdout47.o3276281
+root     11728  7236 11728  0.0  12       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11733 11409 11733  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout48.o3276281 ;                date --rfc-3339=seconds >> job-stdout48.o3276281
+snidhan  11740 11409 11740  0.4   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout49.o3276281 ;                date --rfc-3339=seconds >> job-stdout49.o3276281
+root     11752  7236 11752  0.0  12       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+root     11753  7236 11753  0.0  30       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11754 11409 11754  0.6  38       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout50.o3276281 ;                date --rfc-3339=seconds >> job-stdout50.o3276281
+root     11756  7236 11756  0.0  20       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11757 11464 11757  0.0  18       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11758 11757 11758  0.4  12       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout5.o3276281 ;                date --rfc-3339=seconds >> job-stdout5.o3276281
+snidhan  11763 11409 11763  0.4   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout51.o3276281 ;                date --rfc-3339=seconds >> job-stdout51.o3276281
+root     11767  7236 11767  0.0  11       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11776 11409 11776  0.4   4       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout52.o3276281 ;                date --rfc-3339=seconds >> job-stdout52.o3276281
+root     11784  7236 11784  0.0  21       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11785 11467 11785  0.0  28       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11788 11785 11788  0.4  21       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout6.o3276281 ;                date --rfc-3339=seconds >> job-stdout6.o3276281
+snidhan  11796 11409 11796  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout53.o3276281 ;                date --rfc-3339=seconds >> job-stdout53.o3276281
+root     11802  7236 11802  0.0  11       00:04  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  11822 11409 11822  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout54.o3276281 ;                date --rfc-3339=seconds >> job-stdout54.o3276281
+snidhan  11838 11409 11838  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout55.o3276281 ;                date --rfc-3339=seconds >> job-stdout55.o3276281
+snidhan  11858 11409 11858  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout56.o3276281 ;                date --rfc-3339=seconds >> job-stdout56.o3276281
+snidhan  11864 11409 11864  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout57.o3276281 ;                date --rfc-3339=seconds >> job-stdout57.o3276281
+snidhan  11876 11409 11876  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout58.o3276281 ;                date --rfc-3339=seconds >> job-stdout58.o3276281
+snidhan  11878 11409 11878  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout59.o3276281 ;                date --rfc-3339=seconds >> job-stdout59.o3276281
+snidhan  11880 11409 11880  0.4   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout60.o3276281 ;                date --rfc-3339=seconds >> job-stdout60.o3276281
+snidhan  11888 11470 11888  0.0  18       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11889 11888 11889  0.4  29       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout7.o3276281 ;                date --rfc-3339=seconds >> job-stdout7.o3276281
+snidhan  11894 11409 11894  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout61.o3276281 ;                date --rfc-3339=seconds >> job-stdout61.o3276281
+snidhan  11906 11409 11906  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout62.o3276281 ;                date --rfc-3339=seconds >> job-stdout62.o3276281
+snidhan  11923 11409 11923  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout63.o3276281 ;                date --rfc-3339=seconds >> job-stdout63.o3276281
+snidhan  11936 11409 11936  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout64.o3276281 ;                date --rfc-3339=seconds >> job-stdout64.o3276281
+snidhan  11954 11409 11954  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout65.o3276281 ;                date --rfc-3339=seconds >> job-stdout65.o3276281
+snidhan  11956 11473 11956  0.0   1       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  11957 11956 11957  0.4  10       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout8.o3276281 ;                date --rfc-3339=seconds >> job-stdout8.o3276281
+snidhan  11974 11409 11974  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout66.o3276281 ;                date --rfc-3339=seconds >> job-stdout66.o3276281
+snidhan  11986 11409 11986  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout67.o3276281 ;                date --rfc-3339=seconds >> job-stdout67.o3276281
+snidhan  12019 11409 12019  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout68.o3276281 ;                date --rfc-3339=seconds >> job-stdout68.o3276281
+snidhan  12028 11409 12028  0.4   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout69.o3276281 ;                date --rfc-3339=seconds >> job-stdout69.o3276281
+snidhan  12030 11409 12030  0.7   1       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout70.o3276281 ;                date --rfc-3339=seconds >> job-stdout70.o3276281
+snidhan  12032 11409 12032  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout71.o3276281 ;                date --rfc-3339=seconds >> job-stdout71.o3276281
+snidhan  12035 11409 12035  0.7   0       00:04  47148  2972 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout72.o3276281 ;                date --rfc-3339=seconds >> job-stdout72.o3276281
+snidhan  12053 11480 12053  0.0  19       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12054 12053 12054  0.5  16       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout9.o3276281 ;                date --rfc-3339=seconds >> job-stdout9.o3276281
+snidhan  12090 11483 12090  0.0  11       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12095 12090 12095  0.5  32       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout10.o3276281 ;                date --rfc-3339=seconds >> job-stdout10.o3276281
+snidhan  12149 11486 12149  0.0  20       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12154 12149 12154  0.5  32       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout11.o3276281 ;                date --rfc-3339=seconds >> job-stdout11.o3276281
+snidhan  12242 11489 12242  0.0  20       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12245 12242 12245  0.7   5       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout12.o3276281 ;                date --rfc-3339=seconds >> job-stdout12.o3276281
+snidhan  12258 11492 12258  0.0  10       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12261 12258 12261  0.5  15       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout13.o3276281 ;                date --rfc-3339=seconds >> job-stdout13.o3276281
+snidhan  12289 11496 12289  0.0  36       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12292 12289 12292  0.5  29       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout14.o3276281 ;                date --rfc-3339=seconds >> job-stdout14.o3276281
+snidhan  12366 11504 12366  0.0   3       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12371 12366 12371  0.5  12       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout16.o3276281 ;                date --rfc-3339=seconds >> job-stdout16.o3276281
+snidhan  12403 11501 12403  0.0  31       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12426 12403 12426  0.5  30       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout15.o3276281 ;                date --rfc-3339=seconds >> job-stdout15.o3276281
+snidhan  12474 11522 12474  0.0  19       00:04  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12479 12474 12479  0.5  30       00:04  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout20.o3276281 ;                date --rfc-3339=seconds >> job-stdout20.o3276281
+snidhan  12526 11515 12526  0.0   0       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12532 12526 12532  0.5  65       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout19.o3276281 ;                date --rfc-3339=seconds >> job-stdout19.o3276281
+snidhan  12538 11510 12538  0.0   7       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12547 12538 12547  0.8  22       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout17.o3276281 ;                date --rfc-3339=seconds >> job-stdout17.o3276281
+snidhan  12672 11528 12672  0.0  28       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12676 12672 12676  0.5  32       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout22.o3276281 ;                date --rfc-3339=seconds >> job-stdout22.o3276281
+snidhan  12741 11514 12741  0.0   1       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12742 12741 12742  0.5   4       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout18.o3276281 ;                date --rfc-3339=seconds >> job-stdout18.o3276281
+snidhan  12804 11586 12804  0.0  19       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12806 12804 12806  0.5  23       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout23.o3276281 ;                date --rfc-3339=seconds >> job-stdout23.o3276281
+snidhan  12810 11673 12810  0.0  64       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12811 12810 12811  0.5  67       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout26.o3276281 ;                date --rfc-3339=seconds >> job-stdout26.o3276281
+snidhan  12812 11617 12812  0.0  47       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12815 12812 12815  0.8  32       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout24.o3276281 ;                date --rfc-3339=seconds >> job-stdout24.o3276281
+snidhan  12816 11690 12816  0.0  38       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12817 11634 12817  0.0  30       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12818 12816 12818  0.5  31       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout28.o3276281 ;                date --rfc-3339=seconds >> job-stdout28.o3276281
+snidhan  12821 12817 12821  0.5  32       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout25.o3276281 ;                date --rfc-3339=seconds >> job-stdout25.o3276281
+snidhan  12832 11554 12832  0.0  12       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12845 12832 12845  0.5  30       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout21.o3276281 ;                date --rfc-3339=seconds >> job-stdout21.o3276281
+snidhan  12846 11752 12846  0.0  11       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12854 12846 12854  0.5  23       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout31.o3276281 ;                date --rfc-3339=seconds >> job-stdout31.o3276281
+snidhan  12867 11728 12867  0.0  12       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12881 12867 12881  0.8  33       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout30.o3276281 ;                date --rfc-3339=seconds >> job-stdout30.o3276281
+snidhan  12888 11675 12888  0.0  30       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12906 12888 12906  0.8  32       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout27.o3276281 ;                date --rfc-3339=seconds >> job-stdout27.o3276281
+snidhan  12907 11712 12907  0.0  30       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  12921 12907 12921  0.5   6       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout29.o3276281 ;                date --rfc-3339=seconds >> job-stdout29.o3276281
+snidhan  13034 11753 13034  0.0  29       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13042 13034 13042  0.8  29       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout32.o3276281 ;                date --rfc-3339=seconds >> job-stdout32.o3276281
+snidhan  13072 11767 13072  0.0  12       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13086 13072 13086  0.8  31       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout34.o3276281 ;                date --rfc-3339=seconds >> job-stdout34.o3276281
+snidhan  13209 11784 13209  0.0  21       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13227 13209 13227  0.5   6       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout35.o3276281 ;                date --rfc-3339=seconds >> job-stdout35.o3276281
+snidhan  13238 11802 13238  0.0  12       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13261 11756 13261  0.0  21       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13262 13238 13262  0.5   2       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout36.o3276281 ;                date --rfc-3339=seconds >> job-stdout36.o3276281
+snidhan  13276 13261 13276  0.5  12       00:03  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout33.o3276281 ;                date --rfc-3339=seconds >> job-stdout33.o3276281
+snidhan  13691 11409 13691  0.6  34       00:03  45228  2896 S    ssh r10i5n2.ib0.ice-x.erdc.hpc.mil hostname ;                w ;                ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e | grep -e PID -e snidhan 
+snidhan  13692 11409 13692  0.6   0       00:03  47144  2968 S    ssh r10i5n5.ib0.ice-x.erdc.hpc.mil hostname ;                w ;                ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e | grep -e PID -e snidhan 
+root     13728  7236 13728  0.0   9       00:03  89644  3596 Ss   sshd: snidhan [priv]                               
+snidhan  13744 13728 13744  0.0  33       00:03  89640  1916 S    sshd: snidhan@notty                                
+snidhan  13745 13744 13745  0.7  70       00:03  14932  1852 Ss   bash -c hostname ;                w ;                ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e | grep -e PID -e snidhan 
+snidhan  14491 11573 14491 98.3  55       00:02  20064  5152 R    ./serial_test.x
+snidhan  14561 11524 14561 96.0  27       00:02  20064  5152 R    ./serial_test.x
+snidhan  14572 11521 14572  100  28       00:01  20064  5152 R    ./serial_test.x
+snidhan  14609 11788 14609  100   0       00:01  20064  5152 R    ./serial_test.x
+snidhan  14739 11674 14739  101  20       00:01  20064  5152 R    ./serial_test.x
+snidhan  14793 11758 14793  100   7       00:01  20064  5152 R    ./serial_test.x
+snidhan  14796 11889 14796  101  11       00:01  20064  5152 R    ./serial_test.x
+snidhan  14862 11957 14862  100  39       00:01  20064  5152 R    ./serial_test.x
+snidhan  15391 12261 15391  101  57       00:01  20064  5152 R    ./serial_test.x
+snidhan  15395 12054 15395  101   1       00:01  20064  5152 R    ./serial_test.x
+snidhan  15397 12095 15397  100  26       00:01  20064  5152 R    ./serial_test.x
+snidhan  15405 12154 15405  102  15       00:01  20064  5152 R    ./serial_test.x
+snidhan  15406 12245 15406  101  14       00:01  20064  5152 R    ./serial_test.x
+snidhan  15577 12292 15577 80.8  24       00:00  20064  5152 R    ./serial_test.x
+snidhan  15594 12371 15594 80.0  68       00:00  20064  5152 R    ./serial_test.x
+snidhan  15595 12676 15595 95.0  40       00:00  20064  5152 R    ./serial_test.x
+snidhan  15608 12479 15608 89.4  18       00:00  20064  5152 R    ./serial_test.x
+snidhan  15609 12881 15609 94.7   5       00:00  20064  5152 R    ./serial_test.x
+snidhan  15610 12532 15610 97.2  49       00:00  20064  5152 R    ./serial_test.x
+snidhan  15611 12906 15611 72.2  29       00:00  20064  5152 R    ./serial_test.x
+snidhan  15689 13042 15689 79.1  48       00:00  20064  5152 R    ./serial_test.x
+snidhan  15690 12426 15690 14.2  35       00:00  20064  5152 R    ./serial_test.x
+snidhan  15691 12742 15691  100  10       00:00  20064  5152 R    ./serial_test.x
+snidhan  15694 13086 15694  6.2  13       00:00  20064  5152 R    ./serial_test.x
+snidhan  15715 12815 15715  110  42       00:00  20064  5152 R    ./serial_test.x
+snidhan  15716 13276 15716 90.0  69       00:00  20064  5152 R    ./serial_test.x
+snidhan  15717 12811 15717 75.0  25       00:00  20064  5152 R    ./serial_test.x
+snidhan  15718 12818 15718 50.0  59       00:00  20064  5152 R    ./serial_test.x
+snidhan  15721 12854 15721  0.0  34       00:00  20064  5152 S    ./serial_test.x
+snidhan  15722 13227 15722  100  30       00:00  20064  5152 R    ./serial_test.x
+snidhan  15723 12821 15723  100  44       00:00  20064  5152 R    ./serial_test.x
+snidhan  15724 12547 15724 66.6  31       00:00  20064  5152 R    ./serial_test.x
+snidhan  15725 13262 15725  0.0  58       00:00  20064  5152 S    ./serial_test.x
+snidhan  15726 12806 15726  0.0  22       00:00  20064  5152 D    ./serial_test.x
+snidhan  15727 12921 15727  0.0  23       00:00  20064  5152 S    ./serial_test.x
+snidhan  15728 12845 15728  100  52       00:00  20064  5152 R    ./serial_test.x
+snidhan  15729 13745 15729  300   2       00:00  15216  1116 R    ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e
+snidhan  15730 13745 15730  0.0   3       00:00   7784   808 S    grep -e PID -e snidhan
+r10i5n5
+ 20:11:20 up 107 days,  5:57,  0 users,  load average: 2.95, 1.05, 7.76
+USER     TTY        LOGIN@   IDLE   JCPU   PCPU WHAT
+USER       PID  PPID   LWP %CPU PSR     ELAPSED    VSZ   RSS STAT CMD
+root     22841  7300 22841  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22842  7300 22842  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22843  7300 22843  0.0  18       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22844  7300 22844  0.3   0       00:07  91696  3660 Ss   sshd: snidhan [priv]                               
+root     22845  7300 22845  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22846  7300 22846  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22847  7300 22847  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22848  7300 22848  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22849  7300 22849  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22850  7300 22850  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22851  7300 22851  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22852  7300 22852  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22853  7300 22853  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22854  7300 22854  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22855  7300 22855  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22856  7300 22856  0.0   1       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22857  7300 22857  0.0  36       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22858  7300 22858  0.0  28       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22859  7300 22859  0.0   0       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22860  7300 22860  0.0  37       00:07  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22861  7300 22861  0.0   1       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22862  7300 22862  0.0   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22863  7300 22863  0.0  37       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22864  7300 22864  0.0  37       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22865  7300 22865  0.0  36       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22866  7300 22866  0.0   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22867  7300 22867  0.0  36       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22868  7300 22868  0.0   5       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22869  7300 22869  0.0   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22870  7300 22870  0.0   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22871  7300 22871  0.0  36       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22872  7300 22872  0.0   1       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22873  7300 22873  0.0  36       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22874  7300 22874  0.0   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22875  7300 22875  0.0  36       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+root     22876  7300 22876  0.1   0       00:06  91696  3664 Ss   sshd: snidhan [priv]                               
+snidhan  22913 22844 22913  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22914 22913 22914  0.3  12       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout40.o3276281 ;                date --rfc-3339=seconds >> job-stdout40.o3276281
+snidhan  22915 22843 22915  0.0  54       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22916 22915 22916  0.5  54       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout39.o3276281 ;                date --rfc-3339=seconds >> job-stdout39.o3276281
+snidhan  22934 22842 22934  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22938 22847 22938  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22939 22846 22939  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22940 22934 22940  0.5   0       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout38.o3276281 ;                date --rfc-3339=seconds >> job-stdout38.o3276281
+snidhan  22945 22938 22945  0.3  19       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout43.o3276281 ;                date --rfc-3339=seconds >> job-stdout43.o3276281
+snidhan  22947 22939 22947  0.3  36       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout42.o3276281 ;                date --rfc-3339=seconds >> job-stdout42.o3276281
+snidhan  22953 22841 22953  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  22964 22953 22964  0.3  58       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout37.o3276281 ;                date --rfc-3339=seconds >> job-stdout37.o3276281
+snidhan  23014 22852 23014  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23025 23014 23025  0.3  19       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout48.o3276281 ;                date --rfc-3339=seconds >> job-stdout48.o3276281
+snidhan  23029 22845 23029  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23040 23029 23040  0.3  20       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout41.o3276281 ;                date --rfc-3339=seconds >> job-stdout41.o3276281
+snidhan  23055 22850 23055  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23077 23055 23077  0.3  27       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout46.o3276281 ;                date --rfc-3339=seconds >> job-stdout46.o3276281
+snidhan  23121 22848 23121  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23123 22853 23123  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23132 23121 23132  0.3  16       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout44.o3276281 ;                date --rfc-3339=seconds >> job-stdout44.o3276281
+snidhan  23133 22849 23133  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23134 23123 23134  0.3   3       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout49.o3276281 ;                date --rfc-3339=seconds >> job-stdout49.o3276281
+snidhan  23141 23133 23141  0.3  32       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout45.o3276281 ;                date --rfc-3339=seconds >> job-stdout45.o3276281
+snidhan  23222 22855 23222  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23244 23222 23244  0.3   7       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout51.o3276281 ;                date --rfc-3339=seconds >> job-stdout51.o3276281
+snidhan  23444 22867 23444  0.0   9       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23458 23444 23458  0.3   3       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout63.o3276281 ;                date --rfc-3339=seconds >> job-stdout63.o3276281
+snidhan  23471 22851 23471  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23485 23471 23485  0.3   4       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout47.o3276281 ;                date --rfc-3339=seconds >> job-stdout47.o3276281
+snidhan  23617 22856 23617  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23621 23617 23621  0.3  63       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout52.o3276281 ;                date --rfc-3339=seconds >> job-stdout52.o3276281
+snidhan  23636 22854 23636  0.0  37       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23637 22859 23637  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23638 23636 23638  0.3  50       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout50.o3276281 ;                date --rfc-3339=seconds >> job-stdout50.o3276281
+snidhan  23640 22862 23640  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23642 22875 23642  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23644 23637 23644  0.3  25       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout55.o3276281 ;                date --rfc-3339=seconds >> job-stdout55.o3276281
+snidhan  23646 23640 23646  0.3  21       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout59.o3276281 ;                date --rfc-3339=seconds >> job-stdout59.o3276281
+snidhan  23650 22858 23650  0.0  36       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23653 23642 23653  0.3  12       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout68.o3276281 ;                date --rfc-3339=seconds >> job-stdout68.o3276281
+snidhan  23656 22864 23656  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23659 22866 23659  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23666 22869 23666  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23672 23656 23672  0.3  34       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout64.o3276281 ;                date --rfc-3339=seconds >> job-stdout64.o3276281
+snidhan  23674 23650 23674  0.3  36       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout54.o3276281 ;                date --rfc-3339=seconds >> job-stdout54.o3276281
+snidhan  23679 23659 23679  0.5  61       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout62.o3276281 ;                date --rfc-3339=seconds >> job-stdout62.o3276281
+snidhan  23682 23666 23682  0.3  23       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout65.o3276281 ;                date --rfc-3339=seconds >> job-stdout65.o3276281
+snidhan  23746 22861 23746  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23766 23746 23766  0.3  22       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout57.o3276281 ;                date --rfc-3339=seconds >> job-stdout57.o3276281
+snidhan  23775 22871 23775  0.0  36       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23787 22870 23787  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23796 23775 23796  0.3   9       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout67.o3276281 ;                date --rfc-3339=seconds >> job-stdout67.o3276281
+snidhan  23797 22873 23797  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23801 22863 23801  0.0  37       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23805 23787 23805  0.3  12       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout66.o3276281 ;                date --rfc-3339=seconds >> job-stdout66.o3276281
+snidhan  23810 22860 23810  0.0  37       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23813 22857 23813  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23816 22868 23816  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23819 22865 23819  0.0  36       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23821 22876 23821  0.0   0       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23825 22874 23825  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23829 23797 23829  0.3  22       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout71.o3276281 ;                date --rfc-3339=seconds >> job-stdout71.o3276281
+snidhan  23831 23801 23831  0.3   7       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout58.o3276281 ;                date --rfc-3339=seconds >> job-stdout58.o3276281
+snidhan  23838 22872 23838  0.0   1       00:06  91696  1960 S    sshd: snidhan@notty                                
+snidhan  23845 23816 23845  0.3  23       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout60.o3276281 ;                date --rfc-3339=seconds >> job-stdout60.o3276281
+snidhan  23847 23810 23847  0.3  10       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout56.o3276281 ;                date --rfc-3339=seconds >> job-stdout56.o3276281
+snidhan  23850 23813 23850  0.5  54       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout53.o3276281 ;                date --rfc-3339=seconds >> job-stdout53.o3276281
+snidhan  23854 23821 23854  0.5  21       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout70.o3276281 ;                date --rfc-3339=seconds >> job-stdout70.o3276281
+snidhan  23857 23819 23857  0.3  23       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout61.o3276281 ;                date --rfc-3339=seconds >> job-stdout61.o3276281
+snidhan  23863 23825 23863  0.3  61       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout72.o3276281 ;                date --rfc-3339=seconds >> job-stdout72.o3276281
+snidhan  23896 23838 23896  0.5  43       00:06  14932  1856 Ss   bash -c cd /p/work1/snidhan/topaz_o3276281 ;                ./serial_test.x > job-stdout69.o3276281 ;                date --rfc-3339=seconds >> job-stdout69.o3276281
+root     24761  7300 24761  0.0   0       00:05  91696  3664 Ss   sshd: snidhan [priv]                               
+snidhan  24814 24761 24814  0.0  63       00:05  91696  1960 S    sshd: snidhan@notty                                
+snidhan  24815 24814 24815  0.3  26       00:05  14932  1852 Ss   bash -c hostname ;                w ;                ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e | grep -e PID -e snidhan 
+snidhan  26199 22914 26199 95.3   2       00:02  20064  5104 R    ./serial_test.x
+snidhan  26200 22945 26200 94.0  13       00:02  20064  5104 R    ./serial_test.x
+snidhan  26248 22947 26248 97.2  46       00:02  20064  5152 R    ./serial_test.x
+snidhan  26249 23025 26249 95.8  18       00:02  20064  5152 R    ./serial_test.x
+snidhan  26252 22940 26252 97.2  32       00:02  20064  5152 R    ./serial_test.x
+snidhan  26253 23141 26253 97.9  19       00:02  20064  5152 R    ./serial_test.x
+snidhan  26343 23040 26343 94.8  30       00:01  20064  5152 R    ./serial_test.x
+snidhan  26634 23132 26634 92.9   1       00:01  20064  5152 R    ./serial_test.x
+snidhan  26651 23485 26651 84.0   6       00:01  20064  5152 R    ./serial_test.x
+snidhan  26652 23134 26652 87.5  57       00:01  20064  5152 R    ./serial_test.x
+snidhan  26899 23796 26899 83.3  20       00:01  20064  5152 R    ./serial_test.x
+snidhan  26913 23458 26913 90.1  16       00:01  20064  5152 R    ./serial_test.x
+snidhan  26914 23653 26914 90.1  24       00:01  20064  5152 R    ./serial_test.x
+snidhan  26918 22916 26918 90.0  11       00:01  20064  5152 R    ./serial_test.x
+snidhan  26928 23805 26928 91.8  31       00:01  20064  5152 R    ./serial_test.x
+snidhan  26972 23674 26972 89.5  48       00:01  20064  5152 R    ./serial_test.x
+snidhan  27088 23646 27088 85.1   3       00:01  20064  5152 R    ./serial_test.x
+snidhan  27147 22964 27147 83.3   0       00:00  20064  5152 R    ./serial_test.x
+snidhan  27148 23244 27148 75.0  65       00:00  20064  5152 R    ./serial_test.x
+snidhan  27149 23644 27149 79.1  70       00:00  20064  5152 R    ./serial_test.x
+snidhan  27150 23638 27150 79.1  35       00:00  20064  5152 R    ./serial_test.x
+snidhan  27151 23863 27151 70.0   5       00:00  20064  5152 R    ./serial_test.x
+snidhan  27152 23847 27152 88.2  69       00:00  20064  5152 R    ./serial_test.x
+snidhan  27153 23621 27153 76.4   4       00:00  20064  5152 R    ./serial_test.x
+snidhan  27154 23682 27154 76.4  28       00:00  20064  5152 R    ./serial_test.x
+snidhan  27155 23679 27155 47.0  14       00:00  20064  5152 R    ./serial_test.x
+snidhan  27156 23854 27156 76.4  50       00:00  20064  5152 R    ./serial_test.x
+snidhan  27157 23896 27157  100  17       00:00  20064  5152 R    ./serial_test.x
+snidhan  27158 23845 27158  100  51       00:00  20064  5152 R    ./serial_test.x
+snidhan  27159 23766 27159  100  53       00:00  20064  5152 R    ./serial_test.x
+snidhan  27160 23829 27160  0.0  45       00:00  20064  5152 D    ./serial_test.x
+snidhan  27161 23850 27161  120  23       00:00  20064  5152 R    ./serial_test.x
+snidhan  27162 23077 27162  100  58       00:00  20064  5152 R    ./serial_test.x
+snidhan  27163 23831 27163  100  25       00:00  20064  5152 R    ./serial_test.x
+snidhan  27164 23857 27164  100  43       00:00  20064  5152 R    ./serial_test.x
+snidhan  27166 23672 27166 50.0   8       00:00  20064  5152 R    ./serial_test.x
+snidhan  27168 24815 27168  200  27       00:00  15216  1116 R    ps -o user,pid,ppid,lwp,pcpu,psr,etime,vsz,rss,stat,cmd -e
+snidhan  27169 24815 27169  0.0  63       00:00   7784   808 S    grep -e PID -e snidhan
+Wait ended 2019-03-15 20:11:24-05:00
+Start Epilogue v2.5.3 Fri Mar 15 20:11:24 CDT 2019 
+Memory usage reported in GB
+               % of     user     user     user    total    total
+Node          limit      max    limit  current  current     phys
+r10i5n2        0.08     0.09   117.00     0.04    10.33   125.81
+r10i5n5        0.03     0.04   117.00     0.04     8.53   125.81
+Memory summary:
+		min    0.04 GB
+		max    0.09 GB
+		ave    0.07 GB
+
+CPU Load Average Summary:
+Node          Average
+End Epilogue v2.5.3 Fri Mar 15 20:12:47 CDT 2019 

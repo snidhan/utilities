@@ -7,7 +7,7 @@
 
 for filename in *.pln
 
-do 
+do
    echo $filename
    string=$(awk -F'[_.]' '{printf $3}' <<< "${filename}")
    #echo $string

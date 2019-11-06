@@ -1,0 +1,17 @@
+Start Prologue v2.5.3 Fri Mar 15 20:18:21 CDT 2019 
+r10i5n2: MemFree:        121134844 kB
+End Prologue v2.5.3 Fri Mar 15 20:18:22 CDT 2019 
+mesg: ttyname failed: Inappropriate ioctl for device
+Start Epilogue v2.5.3 Fri Mar 15 20:18:28 CDT 2019 
+Memory usage reported in GB
+               % of     user     user     user    total    total
+Node          limit      max    limit  current  current     phys
+r10i5n2        0.04     0.04   117.00     0.04    10.31   125.81
+Memory summary:
+		min    0.04 GB
+		max    0.04 GB
+		ave    0.04 GB
+
+CPU Load Average Summary:
+Node          Average
+End Epilogue v2.5.3 Fri Mar 15 20:19:50 CDT 2019 

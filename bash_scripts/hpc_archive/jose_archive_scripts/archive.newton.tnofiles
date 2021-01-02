@@ -1,0 +1,37 @@
+#!/bin/bash
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q transfer
+
+#WALL TIME
+#PBS -l walltime=24:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=1:ncpus=1
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o log_archiving
+
+#JOB NAME
+#PBS -N archiving_tno_F3
+
+#RUN
+
+path=/p/work1/jortizta/
+dir=SP_R1E4_F3_coarse
+
+archive mkdir $dir/run/tnofiles
+
+cd $path$dir/run/tnofiles
+tar -czvf tnofiles.tar.gz ./ > ~/log_archiving 
+archive put -C $dir/run/tnofiles tnofiles.tar.gz  > ~/log_archiving
+
+echo "data archiving done"
+
+
+

@@ -28,9 +28,9 @@ cd /work/snidhan/sponge_study/fr2_coarse_sheel/run/
 #sh script_res_v2.sh
 #sh queue_res.sh
 
-#sh update_log.sh
-#sh update_res.sh
+sh update_log.sh
+sh update_res.sh
 
 echo "Submitting Job"
 
-aprun -n 256 ./Eddy.x > log_debug5
+aprun -n 256 ./Eddy.x > log_r0001

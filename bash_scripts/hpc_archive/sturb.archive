@@ -1,0 +1,83 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q transfer
+
+#WALL TIME
+#PBS -l walltime=48:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=1:ncpus=1
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o log_archiving
+
+#JOB NAME
+#PBS -N archiving
+
+#RUN
+
+path=/p/work1/snidhan/spheroid_ar6_aoa_organized/aoa0/fr6/
+dir=half_grid_run
+dir2=spheroid_ar6_aoa_organized/aoa0/fr6/half_grid_run
+
+archive mkdir -p $dir2/run/restartfiles
+
+cd $path$dir
+tar -czvf src.tar.gz ./  --exclude='run'
+archive put -C $dir2 src.tar.gz  > /dev/null
+
+cd $path$dir/run
+tar -czvf run.tar.gz ./ --exclude='*.res' --exclude='restartfiles' 
+archive put -C $dir2/run run.tar.gz  > /dev/null
+
+
+cd $path$dir/run/restartfiles
+
+
+var='uvwp'
+
+for j in `seq 0 3`;
+do
+
+    for i in ${var:j:1}_*.res 
+    do 
+    
+    str="${i:2:8}"  
+    number=$((10#$str+0)) 
+    
+    archive put -C $dir2/run/restartfiles/ $i
+    echo $i 'archived'
+
+    done
+
+done
+
+
+dens=(dens_*.res)
+
+if [ -f ${dens[0]} ]; then
+
+    echo 'archiving density files'
+
+    for i in dens_*.res 
+    do 
+ 
+    str="${i:5:8}"  
+    number=$((10#$str+0)) 
+    
+    archive put -C $dir2/run/restartfiles/ $i > /dev/null
+
+    echo $i 'archived'
+    
+    done
+
+fi
+
+echo "data archiving done"
+

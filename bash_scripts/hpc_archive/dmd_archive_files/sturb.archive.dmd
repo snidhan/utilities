@@ -1,0 +1,38 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q transfer
+
+#WALL TIME
+#PBS -l walltime=12:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=1:ncpus=1
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o log_archiving
+
+#JOB NAME
+#PBS -N archiving
+
+#RUN
+
+path=/work/snidhan/
+dir=parallel_dmd_codes
+
+
+archive mkdir -p $dir
+
+cd $path$dir
+tar -czvf parallel_dmd.tar.gz ./  
+archive put -C $dir parallel_dmd.tar.gz  > /dev/null
+
+echo "data archiving done"
+
+
+

@@ -1,0 +1,33 @@
+#!/bin/sh
+#ACCOUNT
+#PBS -A ONRDC29722307
+
+#QUEUE
+#PBS -q transfer
+
+#WALL TIME
+#PBS -l walltime=48:00:00
+
+#NUMBER OF PROCESSORS
+#PBS -l select=1:ncpus=1
+
+#STANDARD ERROR
+#PBS -e spwake.err
+
+#STANDARD OUT
+#PBS -o log_archiving_tnofiles
+
+#JOB NAME
+#PBS -N archiving
+
+#RUN
+
+path=/p/work1/snidhan/spheroid_ar6_aoa_organized/aoa10/fr6/
+dir=full_grid_datacollection
+dir2=koehr/spheroid_ar6_aoa_organized/aoa10/fr6/full_grid_datacollection
+
+
+cd $path$dir/run
+tar -czvf tnofiles.tar.gz ./tnofiles/
+archive put -C $dir2/run tnofiles.tar.gz  > /dev/null
+
